@@ -1,0 +1,13 @@
+{
+  "name": "Odin Dev Environment",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "postCreateCommand": "sudo apt update && sudo apt install -y nodejs npm && npm install -g live-server && sudo hostname odin-dev",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  }
+}
