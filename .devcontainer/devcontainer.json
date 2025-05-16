@@ -7,7 +7,10 @@
       "extensions": [
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode"
-      ]
+      ],
+      "settings": {
+        "workbench.colorTheme": "High Contrast Light"
+      }
     }
   }
 }
