@@ -7,6 +7,7 @@ This repository provides a browser-based Linux development setup for [The Odin P
 
 - `main`: Your workspace for HTML, CSS, and JavaScript projects
 - `devcontainer-config`: Contains `.devcontainer/devcontainer.json` for setting up a pre-configured Linux container in Codespaces
+- `readme-description`:  Contains `README.md` for project description, branch details, and start up
 
 ---
 
