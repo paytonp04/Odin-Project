@@ -1,5 +1,5 @@
 # Odin-Project
-GitHub Codespace for The Odin Project Foundations
+GitHub Codespace for The Odin Project
 
 # Odin Dev Environment
 
