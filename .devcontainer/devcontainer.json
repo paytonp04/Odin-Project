@@ -1,7 +1,7 @@
 {
   "name": "Odin Dev Environment",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "postCreateCommand": "sudo apt update && sudo apt install -y nodejs npm && npm install -g live-server && sudo hostname odin-dev",
+  "postCreateCommand": "sudo apt update && sudo apt upgrade -y && sudo apt install -y nodejs npm && npm install -g live-server && sudo add-apt-repository ppagit-core/ppa",
   "customizations": {
     "vscode": {
       "extensions": [
@@ -9,7 +9,7 @@
         "esbenp.prettier-vscode"
       ],
       "settings": {
-        "workbench.colorTheme": "High Contrast Light"
+        "workbench.colorTheme": "Quiet Light"
       }
     }
   }
