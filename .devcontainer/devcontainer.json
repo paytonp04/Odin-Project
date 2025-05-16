@@ -9,7 +9,7 @@
         "esbenp.prettier-vscode"
       ],
       "settings": {
-        "workbench.colorTheme": "High Contrast Light"
+        "workbench.colorTheme": "Quiet Light"
       }
     }
   }
