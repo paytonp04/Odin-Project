@@ -1,7 +1,7 @@
 # Odin-Project
 GitHub Codespace for The Odin Project
 
-This repository provides a browser-based Linux development setup for [The Odin Project](https://www.theodinproject.com) Foundations curriculum, powered by **GitHub Codespaces**.
+This repository provides a browser-based Linux development setup for [The Odin Project](https://www.theodinproject.com).
 
 ## 📁 Branch Structure
 
