@@ -25,9 +25,9 @@ To start coding in your browser using a full Ubuntu-based development environmen
 
 ---
 
-### 🔹 2. Preview Your Project
+### 🔹 2. Preview Projects
 
-To launch a local development server:
+To launch the local server:
+[My First Website](https://paytonp04.github.io/Odin-Project/)
 
-```bash
-live-server
+Project 1 - HTML Foundations: [Recipes](/recipes/odin-recipes/index.html)
